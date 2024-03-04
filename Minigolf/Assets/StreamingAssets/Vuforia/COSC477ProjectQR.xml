@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Hole" size="0.100000 0.100000" />
+    <ImageTarget name="Start" size="0.100000 0.100000" />
+    <ImageTarget name="Right4" size="0.100000 0.100000" />
+    <ImageTarget name="Right3" size="0.100000 0.100000" />
+    <ImageTarget name="Right2" size="0.100000 0.100000" />
+    <ImageTarget name="Right1" size="0.100000 0.100000" />
+    <ImageTarget name="Left4" size="0.100000 0.100000" />
+    <ImageTarget name="Left3" size="0.100000 0.100000" />
+    <ImageTarget name="Left2" size="0.100000 0.100000" />
+    <ImageTarget name="Left1" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
